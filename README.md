@@ -28,6 +28,7 @@
 [<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][github]
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][github]
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][github]
+[<img align="left" alt="Nuxt" width="26px" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/nuxt/nuxt.png" />][github]
 [<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/flask/flask.png" />][github]
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][github]
 [<img align="left" alt="Nginx" width="26px" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/nginx/nginx.png" />][github]
