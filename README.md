@@ -56,7 +56,7 @@
 
 </details>
 
-[website]: https://themillennnialspress.com
+[website]: https://www.themillennialspress.com
 [twitter]: https://twitter.com/surajthapafc04
 [instagram]: https://instagram.com/suraj_fc
 [linkedin]: https://www.linkedin.com/in/suraj4/
