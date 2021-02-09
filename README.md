@@ -1,6 +1,6 @@
 ### Hi there, I'm Suraj Thapa
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/surajthapafc04?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%SurajFc&screen_name=SurajFC)
+[![Twitter Follow](https://img.shields.io/twitter/follow/surajthapafc04?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SurajFC)
 
 ## I'm a Student, Employee, Developer, and Teacher!
 
