@@ -4,7 +4,7 @@
 
 ## I'm a Student, Employee, Developer, and Teacher!
 
-- 🔭 I’m currently working on a Mindbowser
+- 🔭 I’m currently working on React & NestJS projects.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
