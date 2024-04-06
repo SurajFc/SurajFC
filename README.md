@@ -4,7 +4,7 @@
 
 ## I'm a Student, Employee, Developer, and Teacher!
 
-- 🔭 I’m currently working on Blockchain projects.
+- 🔭 I’m currently working on web projects.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
