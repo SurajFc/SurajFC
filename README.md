@@ -1,66 +1,128 @@
-### Hi there, I'm Suraj Thapa
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+%F0%9F%91%8B;+This+is+Suraj+Thapa!;Senior+Software+Engineer" />
+</h1>
+<h3 align="center">A Versatile Software Engineer with 5 Years of Experience</h3><br/>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SurajFC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SurajFC)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SurajFc&label=Profile%20views&color=0e75b6&style=flat" alt="SurajFc" />
+</p>
 
-## I'm a Student, Employee, Developer, and Teacher!
+<p align="left">
+  <a href="https://twitter.com/surajthapafc" target="blank">
+    <img src="https://img.shields.io/twitter/follow/surajthapafc?logo=twitter&style=for-the-badge" alt="surajthapafc" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on web projects.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Football, listening music & coding
+<img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
-### Connect with me:
+### 📬 Contact
+- **Email:** surajthapafc@gmail.com  
+- **Phone:** +91 9818479189 , +977 9811064680  
+- **GitHub:** [SurajFc](https://github.com/SurajFc)
 
-[<img align="left" alt="millennials.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="surajfc | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="surajfc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="surajfc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="surajfc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="surajfc | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+---
 
-<br />
+### 👨‍💻 About Me
+I am a versatile software engineer with 5 years of industry experience, delivering complex technical solutions across both front-end and back-end technologies. Known for being a collaborative team player and a strategic problem solver, I’m seeking an opportunity to contribute to a dynamic organization where I can apply my expertise, drive impactful results, and continue to grow professionally.
 
-### Languages and Tools:
+---
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][github]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
-[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][github]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][github]
-[<img align="left" alt="Nuxt" width="26px" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/nuxt/nuxt.png" />][github]
-[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/flask/flask.png" />][github]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][github]
-[<img align="left" alt="Nginx" width="26px" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/nginx/nginx.png" />][github]
-[<img align="left" alt="Elasticsearch" width="26px" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png" />][github]
-[<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/redis/redis.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][github]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
+### 👨🏽‍💻 Languages and Tools <br/>
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,redux,figma,git,nodejs,express,firebase,nextjs,jquery,docker,postgresql,redis,prisma,mongodb,mysql,graphql,aws,python,django,nestjs,linux" />
+</div><br/><br/>
 
-<br />
-<br />
-<br />
-<br />
-<details>
-<summary>:zap: Github Stats</summary>
+### 💼 Experience
+#### **Mindbrowser Inc - Software Engineer (Remote)**  
+**April 2021 - Present**  
+- Designed and developed a large-scale web application featuring over 200 responsive pages using ReactJS.  
+- Integrated third-party and backend APIs with team coordination.  
+- Mentored junior developers and conducted code reviews.  
 
-  <img align="left" alt="Suraj's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SurajFc&show_icons=true&hide_border=true" />
+#### **Macco Robotics - Vue.js Intern (Remote)**  
+**July 2020 - October 2020**  
+- Built Vue.js components with Vuetify, integrating backend APIs.  
 
-</details>
+#### **Agile Computers - Python Trainee**  
+**January 2019 - June 2019**  
+- Developed applications using Django and Python frameworks.  
 
-[website]: https://www.themillennialspress.com
-[twitter]: https://twitter.com/SurajFC
-[instagram]: https://instagram.com/suraj_fc
-[linkedin]: https://www.linkedin.com/in/suraj4/
-[reddit]: https://www.reddit.com/user/suraj_fc
-[facebook]: https://www.facebook.com/surajthapafc
-[github]: https://github.com/SurajFc
+---
+
+### 🚀 Projects
+#### **PeriopMD - practitioner.periopmd.org & SuperAdmin**  
+**Techstack:** ReactJS, Redux, MaterialUI, Stripe  
+- Subscription-based portal for hospitals and practitioners.  
+- Custom test generation and test recommendations.
+
+#### **TTA Connect - traconnect.com**  
+**Techstack:** ReactJS, Redux, JavaScript  
+- Designed frontend with JWT authentication and Redux state management.  
+
+#### **TTA Connect CMS - ttateam.ttacorp.com**  
+**Techstack:** ReactJS, Redux, MSAL, Twilio  
+- Created CMS with real-time chat using Twilio and Azure auth.
+
+#### **Edunaa & Instructor/Admin Portals**  
+**Techstack:** ReactJS, Django, AWS, Stripe, Redux  
+- Educational marketplace with course access, Stripe payments, certificate management, and user features.  
+
+#### **Trabus RippleGo - trabus.com/ripplego**  
+**Techstack:** ReactJS, Redux, GraphQL  
+- River navigation tracking system with live alerts and route guidance.  
+
+---
+
+### 🎓 Education
+- **Masters of Computer Application**, Bhai Parmanand Institute of Business Studies (2017 - 2019)  
+- **Bachelors of Computer Application**, Vivekananda Institute of Professional Studies (2014 - 2017)
+
+---
+
+### 📜 Certifications
+- Red Hat Certified System Administrator (August 2018) - ID: 180-177-776  
+- Python Bootcamp – Udemy  
+- Complete React Developer – Udemy
+
+---
+
+### 🧠 Key Skills
+- Project Management  
+- Agile Development  
+- Problem-solving  
+- Client Communication  
+- API Integration & Design  
+- Software Design  
+- Programming
+
+---
+
+### 🧰 Software Tools
+- GitHub/GitLab, Jira, Asana, Trello  
+- Postman, Confluence, Figma, Teams
+
+---
+
+### 🌐 Languages
+- Hindi  
+- English  
+- Nepali
+
+---
+
+### 🌍 Portfolio
+Visit my portfolio: [SurajPortfolio](https://surajfc.github.io/surajPortfolio/)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SurajFc&theme=swift&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajFc&theme=swift&hide_border=false" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajFc&theme=swift&hide_border=false&layout=compact&langs_count=10" />
+</p>
+
+### 🏆 GitHub Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SurajFc&theme=onestar&margin-w=10&row=1&no-bg=true&no-frame=true" alt="SurajFc" />
+</p>
