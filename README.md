@@ -52,7 +52,7 @@ Visit my portfolio: [SurajPortfolio](https://surajfc.github.io/surajPortfolio/)
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurajFc&theme=swift&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SurajFc&theme=swift&hide_border=false&include_all_commits=true&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajFc&theme=swift&hide_border=false" /><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajFc&theme=swift&hide_border=false&layout=compact&langs_count=10" />
 </p>
