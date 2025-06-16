@@ -14,6 +14,15 @@
   </a>
 </p>
 
+### 🚀 Currently
+
+- 🔭 I’m currently working on **Building a Scalable Web Application**
+- 🌱 I’m currently learning **TypeScript** and **Exploring DevOps**
+- 💬 Ask me about **Technology** and **Personal Development**
+- 📫 How to reach me: **surajthapafc@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I Think I am Funny**
+
 <img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
 ### 📬 Contact
