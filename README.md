@@ -1,7 +1,8 @@
+![Image](https://github.com/user-attachments/assets/6435a295-f111-4bde-b9f5-22ab63b9197c)
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+%F0%9F%91%8B;+This+is+Suraj+Thapa!;Senior+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+This+is+Suraj+Thapa!" />
 </h1>
-<h3 align="center">A Versatile Software Engineer with 5 Years of Experience</h3><br/>
+<h3 align="center">A Versatile Software Engineer.</h3><br/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SurajFc&label=Profile%20views&color=0e75b6&style=flat" alt="SurajFc" />
@@ -32,83 +33,6 @@ I am a versatile software engineer with 5 years of industry experience, deliveri
   <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,redux,figma,git,nodejs,express,firebase,nextjs,jquery,docker,postgresql,redis,prisma,mongodb,mysql,graphql,aws,python,django,nestjs,linux" />
 </div><br/><br/>
 
-### 💼 Experience
-#### **Mindbrowser Inc - Software Engineer (Remote)**  
-**April 2021 - Present**  
-- Designed and developed a large-scale web application featuring over 200 responsive pages using ReactJS.  
-- Integrated third-party and backend APIs with team coordination.  
-- Mentored junior developers and conducted code reviews.  
-
-#### **Macco Robotics - Vue.js Intern (Remote)**  
-**July 2020 - October 2020**  
-- Built Vue.js components with Vuetify, integrating backend APIs.  
-
-#### **Agile Computers - Python Trainee**  
-**January 2019 - June 2019**  
-- Developed applications using Django and Python frameworks.  
-
----
-
-### 🚀 Projects
-#### **PeriopMD - practitioner.periopmd.org & SuperAdmin**  
-**Techstack:** ReactJS, Redux, MaterialUI, Stripe  
-- Subscription-based portal for hospitals and practitioners.  
-- Custom test generation and test recommendations.
-
-#### **TTA Connect - traconnect.com**  
-**Techstack:** ReactJS, Redux, JavaScript  
-- Designed frontend with JWT authentication and Redux state management.  
-
-#### **TTA Connect CMS - ttateam.ttacorp.com**  
-**Techstack:** ReactJS, Redux, MSAL, Twilio  
-- Created CMS with real-time chat using Twilio and Azure auth.
-
-#### **Edunaa & Instructor/Admin Portals**  
-**Techstack:** ReactJS, Django, AWS, Stripe, Redux  
-- Educational marketplace with course access, Stripe payments, certificate management, and user features.  
-
-#### **Trabus RippleGo - trabus.com/ripplego**  
-**Techstack:** ReactJS, Redux, GraphQL  
-- River navigation tracking system with live alerts and route guidance.  
-
----
-
-### 🎓 Education
-- **Masters of Computer Application**, Bhai Parmanand Institute of Business Studies (2017 - 2019)  
-- **Bachelors of Computer Application**, Vivekananda Institute of Professional Studies (2014 - 2017)
-
----
-
-### 📜 Certifications
-- Red Hat Certified System Administrator (August 2018) - ID: 180-177-776  
-- Python Bootcamp – Udemy  
-- Complete React Developer – Udemy
-
----
-
-### 🧠 Key Skills
-- Project Management  
-- Agile Development  
-- Problem-solving  
-- Client Communication  
-- API Integration & Design  
-- Software Design  
-- Programming
-
----
-
-### 🧰 Software Tools
-- GitHub/GitLab, Jira, Asana, Trello  
-- Postman, Confluence, Figma, Teams
-
----
-
-### 🌐 Languages
-- Hindi  
-- English  
-- Nepali
-
----
 
 ### 🌍 Portfolio
 Visit my portfolio: [SurajPortfolio](https://surajfc.github.io/surajPortfolio/)
