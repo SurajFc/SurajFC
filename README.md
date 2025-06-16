@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/6435a295-f111-4bde-b9f5-22ab63b9197c)
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+This+is+Suraj+Thapa!" />
 </h1>
@@ -13,7 +14,7 @@
   </a>
 </p>
 
-<div align="center">
+<div align="left">
   <img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
   
   ### 🚀 Currently
