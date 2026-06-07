@@ -52,12 +52,12 @@ Visit my portfolio: [SurajPortfolio](https://surajfc.github.io/surajPortfolio/)
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurajFc&theme=swift&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajFc&theme=swift&hide_border=false" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajFc&theme=swift&hide_border=false&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SurajFc&theme=swift&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=SurajFc&theme=swift&hide_border=false" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajFc&theme=swift&hide_border=false&layout=compact&langs_count=10&cache_seconds=1800" />
 </p>
 
 ### 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SurajFc&theme=onestar&margin-w=10&row=1&no-bg=true&no-frame=true" alt="SurajFc" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SurajFc&theme=flat&margin-w=10&no-bg=true&no-frame=true" alt="SurajFc" />
 </p>
