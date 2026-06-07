@@ -1,7 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/6435a295-f111-4bde-b9f5-22ab63b9197c)
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+This+is+Suraj+Thapa!" />
-</h1>
+<h1 align="center">Hi there, I'm Suraj Thapa! 👋</h1>
 <h3 align="center">A Versatile Software Engineer.</h3><br/>
 
 <p align="left">
@@ -64,11 +62,6 @@ Visit my portfolio: [surajthapa.vercel.app](https://surajthapa.vercel.app)
   <img src="https://github-readme-stats-surajfc.vercel.app/api?username=SurajFc&theme=swift&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" />
   <img src="https://streak-stats.demolab.com/?user=SurajFc&theme=swift&hide_border=false" /><br/><br/>
   <img src="https://github-readme-stats-surajfc.vercel.app/api/top-langs/?username=SurajFc&theme=swift&hide_border=false&layout=compact&langs_count=10&cache_seconds=1800" />
-</p>
-
-### 🏆 GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SurajFc&theme=flat&margin-w=10&no-bg=true&no-frame=true" alt="SurajFc" />
 </p>
 
 ### 📈 Activity Graph
