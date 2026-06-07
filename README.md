@@ -61,9 +61,9 @@ Visit my portfolio: [surajthapa.vercel.app](https://surajthapa.vercel.app)
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurajFc&theme=swift&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-surajfc.vercel.app/api?username=SurajFc&theme=swift&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" />
   <img src="https://streak-stats.demolab.com/?user=SurajFc&theme=swift&hide_border=false" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajFc&theme=swift&hide_border=false&layout=compact&langs_count=10&cache_seconds=1800" />
+  <img src="https://github-readme-stats-surajfc.vercel.app/api/top-langs/?username=SurajFc&theme=swift&hide_border=false&layout=compact&langs_count=10&cache_seconds=1800" />
 </p>
 
 ### 🏆 GitHub Trophy
