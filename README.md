@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <a href="https://surajfc.github.io/surajPortfolio/" target="_blank">
+  <a href="https://surajthapa.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:surajthapafc@gmail.com">
@@ -55,7 +55,7 @@ I am a versatile software engineer with 5 years of industry experience, deliveri
 </div><br/><br/>
 
 ### 🌍 Portfolio
-Visit my portfolio: [SurajPortfolio](https://surajfc.github.io/surajPortfolio/)
+Visit my portfolio: [surajthapa.vercel.app](https://surajthapa.vercel.app)
 
 ---
 
