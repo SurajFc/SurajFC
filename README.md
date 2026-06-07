@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/6435a295-f111-4bde-b9f5-22ab63b9197c)
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+This+is+Suraj+Thapa!" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+This+is+Suraj+Thapa!" />
 </h1>
 <h3 align="center">A Versatile Software Engineer.</h3><br/>
 
@@ -9,13 +9,22 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/surajthapafc" target="blank">
-    <img src="https://img.shields.io/twitter/follow/surajthapafc?logo=twitter&style=for-the-badge" alt="surajthapafc" />
+  <a href="https://surajthapa.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:surajthapafc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/SurajFc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/surajthapafc" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
 <div align="left">
-  <img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+  <img align="right" alt="coding" width="375" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
   
   ### 🚀 Currently
   - 🔭 I'm currently working on **Building a Scalable Web Application**
@@ -46,7 +55,7 @@ I am a versatile software engineer with 5 years of industry experience, deliveri
 </div><br/><br/>
 
 ### 🌍 Portfolio
-Visit my portfolio: [SurajPortfolio](https://surajfc.github.io/surajPortfolio/)
+Visit my portfolio: [surajthapa.vercel.app](https://surajthapa.vercel.app)
 
 ---
 
@@ -60,4 +69,18 @@ Visit my portfolio: [SurajPortfolio](https://surajfc.github.io/surajPortfolio/)
 ### 🏆 GitHub Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SurajFc&theme=flat&margin-w=10&no-bg=true&no-frame=true" alt="SurajFc" />
+</p>
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajFc&theme=react-dark&hide_border=true&area=true" alt="SurajFc activity graph" />
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SurajFc/SurajFc/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SurajFc/SurajFc/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/SurajFc/SurajFc/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
